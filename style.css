@@ -1,0 +1,59 @@
+
+body{
+    background: url("Cake.jpg");
+    background-repeat: repeat;
+    font-size: 16px;
+}
+
+
+.page{
+    box-sizing: border-box;
+    width: 800px;
+    margin: 15px auto;
+    border: 1px solid midnightblue;
+    padding: 10px;
+    padding-right: 30px;
+    background: #fff;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;   
+}
+
+h1{
+    font-size: 32px;
+    padding: 5px;
+    padding-bottom: 10px;
+    color: midnightblue;
+    background: #e5ffff;
+    border: 1px solid midnightblue;
+}
+
+h2{
+    font-size: 20px;
+    padding: 5px;
+    color: midnightblue;
+    background: #e5ffff;
+    border: 1px solid midnightblue;
+}
+
+img{
+    margin-top: -30px;
+    margin-left: 15px;
+    border: 1px solid midnightblue;
+    width: 450px;
+    height: auto;
+    
+}
+
+li{
+    margin: 5px;
+}
+
+strong{
+    color: midnightblue;
+}
+a{
+    color: midnightblue;  
+    padding: 5px;
+}
+a:hover{
+    color: #48f;
+}
