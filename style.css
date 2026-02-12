@@ -2,7 +2,9 @@
 body{
     background: url("Cake.jpg");
     background-repeat: repeat;
+    font-family:Verdana,Arial,sans-serif; 
     font-size: 16px;
+    font-weight: 400;
 }
 
 
@@ -14,7 +16,7 @@ body{
     padding: 10px;
     padding-right: 30px;
     background: #fff;
-    font-family:Verdana,Arial,sans-serif;   
+      
 }
 
 h1{
